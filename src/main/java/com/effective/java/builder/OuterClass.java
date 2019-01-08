@@ -1,4 +1,4 @@
-package com.effective.java;
+package com.effective.java.builder;
 
 
 import lombok.*;
